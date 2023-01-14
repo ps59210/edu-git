@@ -30,3 +30,4 @@ if __name__ == "__main__":
     pl.display_state_temp(values[0], values[1], values[2])
 
     print("Application completed")
+    print("Application completed")
