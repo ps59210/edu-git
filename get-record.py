@@ -28,3 +28,5 @@ if __name__ == "__main__":
 
     # Display the state and temp
     pl.display_state_temp(values[0], values[1], values[2])
+
+    print("Application completed")
