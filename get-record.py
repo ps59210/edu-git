@@ -1,8 +1,9 @@
 # Copyright 2019 Cloudera, Inc.
 # Not to be reproduced or shared without prior written consent from Cloudera.
 
-
+#hello
 def get_state_temp(one_record):
+
     """This function retrieves the state of radios and temp from one record"""
     entries = one_record.split(',')
     bluetooth = entries[6]
